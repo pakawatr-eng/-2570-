@@ -1,0 +1,6 @@
+{
+  "name": "ทะเบียนคุมใบยืมและคืน (ครุภัณฑ์ ปี2570)",
+  "description": "ระบบทะเบียนคุมใบยืมและคืนครุภัณฑ์ ประจำปีงบประมาณ 2570 จัดการข้อมูลการยืม-คืน ตรวจสอบสถานะครุภัณฑ์ บันทึกข้อมูลและส่งออกเป็นไฟล์ Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
